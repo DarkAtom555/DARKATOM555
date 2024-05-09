@@ -1,9 +1,5 @@
 
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dark.knight81726) 
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkatom555&show_icons=true&locale=en&layout=compact" alt="darkatom555" /></p>
 <h1 align="center">Hi 👋, I'm Sourav Ghosh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
